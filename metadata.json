@@ -1,0 +1,5 @@
+{
+  "name": "Flashcard AI Generator",
+  "description": "An application that allows converting text content from PDF documents into FlashcardAI format for learning and reviewing knowledge.",
+  "requestFramePermissions": []
+}
